@@ -1,0 +1,7 @@
+merchant_category,merchant_country,avg_transaction_value,merchant_risk_score
+Electronics,Singapore,2185.43,0.56
+Travel,India,3193.96,0.45
+Fuel,UAE,761.38,0.33
+E-commerce,India,3686.33,0.83
+Dining,India,4245.99,0.58
+Grocery,India,1325.32,0.37
